@@ -1,36 +1,4 @@
 SISTEMA DE CADASTRO DE CARROS POR PLACA XXXX-9999 FACULDADE 1º SEMESTRE 2021 - PROJETO DE ATIVIDADE/PROVA FMU 
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
 
 #include <stdio.h>
 #include <string.h>
